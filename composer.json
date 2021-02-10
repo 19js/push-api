@@ -1,0 +1,18 @@
+{
+    "name": "19js/push-api",
+    "description": "百度站长推送工具",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom",
+            "email": "1069447298@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tom\\PushApi\\": "src"
+        }
+    },
+    "require": {}
+}
